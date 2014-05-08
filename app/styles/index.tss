@@ -1,0 +1,20 @@
+".container": {
+	backgroundColor:"white",
+	top : Alloy.Globals.appTop,
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000",
+	visible : false,
+} 
+
+"#viewBtn":{
+	height: '30dp',
+	width : '100%'	
+}
+
+"#viewTableView":{
+	height : 'fill',
+	width:'100%'
+}

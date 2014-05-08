@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<View id="viewBtn">
+			<Label id="label" onClick="doClick">Hello, World</Label>
+			<!-- Use the Alloy.Globals.Facebook namespace to create a Facebook module login button -->
+			<LoginButton id="fbButton" ns="Alloy.Globals.Facebook"/>
+		</View>		
+		<!-- <Button id="btnLogout">Logout Facebook</Button> -->
+	</Window>
+</Alloy>

@@ -1,0 +1,1 @@
+module.exports = [{"isClass":true,"priority":10000.0002,"key":"container","style":{backgroundColor:"white",top:Alloy.Globals.appTop,}},{"isId":true,"priority":100000.0003,"key":"txtPostMsgOnFB","style":{backgroundColor:"white",top:"10dp",height:"40dp",width:"80%",borderColor:"gray",borderRadius:3,}}];

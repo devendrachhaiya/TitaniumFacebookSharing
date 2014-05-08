@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Label id="lblShowProfile">Profile Details</Label>
+		<Button id="btnPostPage">Post page</Button>
+		<View id="viewTableView">
+			<TableView id="tblInfo"></TableView>
+		</View>
+	</Window>
+</Alloy>

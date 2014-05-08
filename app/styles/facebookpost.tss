@@ -1,0 +1,15 @@
+
+".container" : {
+  backgroundColor : 'white',
+  top : Alloy.Globals.appTop,
+  }
+  
+"#txtPostMsgOnFB" : {
+  backgroundColor : 'white',
+  top : '10dp',
+  height : '40dp',
+  width : '80%',
+  borderColor: 'gray',
+	borderRadius: 3,
+ }
+  

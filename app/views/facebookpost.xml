@@ -1,0 +1,9 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Label>Facebook post</Label>
+		<TextField id="txtPostMsgOnFB"></TextField>
+		<Button id="btnPostMsg">Post</Button>
+		
+		<Button id="btnPickImage">Pick Image</Button>>
+	</Window>
+</Alloy>
