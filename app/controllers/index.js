@@ -3,7 +3,9 @@ function doClick(e) {
 }
 
 var facebook = Alloy.Globals.Facebook;
-facebook.appid = 677418828983959;
+
+facebook.appid = YOUR_APPLICATION_ID;
+
 facebook.permissions = ['read_stream'];
 $.fbButton.style = facebook.BUTTON_STYLE_WIDE;
 //$.btnLogout.hide();
